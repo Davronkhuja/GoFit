@@ -1,0 +1,10 @@
+class AppConstants {
+  static const double borderRadius = 20.0;
+  static const double padding = 24.0;
+  static const double buttonHeight = 56.0;
+
+  static const int minAge = 18;
+  static const int maxAge = 80;
+  static const int minWeight = 30;
+  static const int maxWeight = 200;
+}
